@@ -1,0 +1,6 @@
+build/
+third_party/
+tools/*.exe
+tools/*.obj
+tools/*.dll
+tools/__pycache__/
